@@ -63,14 +63,14 @@
     "900134277616926780": {
       "hash": "03e865202ae8d6986a196405a3dfef5fc593f8f3f3c383d2b9fff0552b1a44a13f6f763307b9ea96f684dc9b9b8caaf9f680f9519e8c8e8a750a45be4493a44d",
       "attackable": false,
-      "level": 1,
+      "level": 2,
       "tags": [
         {
-          "text": "VAPE PRIVATE",
+          "text": "VAPE CO-OWNER",
           "color": [
-            178,
-            0,
-            255
+            255,
+            50,
+            50
           ]
         }
       ]
